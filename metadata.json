@@ -1,0 +1,6 @@
+{
+  "name": "Library Management System",
+  "description": "A full-stack library management system featuring responsive catalog management, member tracking, book borrowing/return workflow, input validation, real-time search, automated fine calculations, RESTful API endpoints, and comprehensive testing documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
